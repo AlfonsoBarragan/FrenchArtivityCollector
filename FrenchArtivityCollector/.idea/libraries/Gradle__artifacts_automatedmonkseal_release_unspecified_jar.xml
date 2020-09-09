@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:automatedmonkseal-release:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/automatedmonkseal-release/build/.transforms/e92b2d6f01b474631f0472563d9aa363/automatedmonkseal-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/automatedmonkseal-release/build/.transforms/e92b2d6f01b474631f0472563d9aa363/automatedmonkseal-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
