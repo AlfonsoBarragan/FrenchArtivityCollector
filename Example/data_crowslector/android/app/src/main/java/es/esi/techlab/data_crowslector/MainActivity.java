@@ -17,6 +17,7 @@ import es.esi.techlab.frenchartivitycollector.managers.InputOutputManagement;
 import io.flutter.view.FlutterView;
 
 public class MainActivity extends FlutterActivity {
+
     private PendingIntent pendingIntent;
 
     private static FlutterView flutterView;

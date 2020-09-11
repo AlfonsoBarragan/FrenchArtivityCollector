@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632489371647",
+    "firebase_url": "https://data-crowslector.firebaseio.com",
+    "project_id": "data-crowslector",
+    "storage_bucket": "data-crowslector.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632489371647:android:9916bbf396facdf4d629ca",
+        "android_client_info": {
+          "package_name": "es.esi.techlab.data_crowslector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632489371647-hpe7666fvd6bh78o5nb1l0jvdgojgjtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxb25I98mQUGzkidR6E9pLjuZE9MoVheU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632489371647-hpe7666fvd6bh78o5nb1l0jvdgojgjtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

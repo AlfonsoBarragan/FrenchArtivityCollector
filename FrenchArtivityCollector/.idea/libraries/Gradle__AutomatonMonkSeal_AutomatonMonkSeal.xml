@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="Gradle: AutomatonMonkSeal.AutomatonMonkSeal">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/AutomatonMonkSeal/AutomatonMonkSeal.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
