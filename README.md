@@ -11,7 +11,7 @@
 ![Coverage](https://img.shields.io/badge/Coverage-0%25-red)
 [![License](https://img.shields.io/badge/License-GPL-brightgreen)](https://github.com/pandas-dev/pandas/blob/master/LICENSE)
 
-Resource package synergy between BlueBeeToth and AutomatonMonkSeal to recollect activity data from MiBand3
+Resource package synergy between BlueBeeTooth and AutomatonMonkSeal to recollect activity data from MiBand3
 
 * Added two examples, one creating a new module an transfering the classes handmade and other importing the library throught an AAR package.
 
