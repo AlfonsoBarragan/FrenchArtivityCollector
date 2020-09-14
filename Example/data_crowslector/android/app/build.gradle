@@ -52,7 +52,19 @@ android {
 
 dependencies {
     implementation 'org.jetbrains:annotations:15.0'
-    implementation project(path: ':frenchartivitycollector')
+    implementation project(path: ':frenchartivitycollector-release')
+
+    implementation 'com.google.firebase:firebase-firestore:21.4.3'
+    implementation 'com.google.firebase:firebase-config:19.1.4'
+    implementation 'com.google.firebase:firebase-analytics:17.2.3'
+    implementation 'com.google.firebase:firebase-core:17.0.0'
+    implementation 'com.google.firebase:firebase-database:19.2.0'
+    implementation 'com.google.firebase:firebase-storage:17.0.0'
+    implementation 'org.apache.commons:commons-lang3:3.6'
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.16'
+
+    implementation project(path: ':automatedmonkseal-release')
+    implementation project(path: ':bluebeetoothmodule-release')
 
 }
 
