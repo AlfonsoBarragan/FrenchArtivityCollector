@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:bluebeetoothmodule-release:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bluebeetoothmodule-release/build/.transforms/7bee08c7fd24e3a458d6c1a42c4188b5/bluebeetoothmodule-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/bluebeetoothmodule-release/build/.transforms/7bee08c7fd24e3a458d6c1a42c4188b5/bluebeetoothmodule-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

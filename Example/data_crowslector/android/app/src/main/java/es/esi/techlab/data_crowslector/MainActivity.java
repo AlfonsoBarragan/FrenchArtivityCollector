@@ -33,8 +33,10 @@ public class MainActivity extends FlutterActivity {
         GeneratedPluginRegistrant.registerWith(this);
         InputOutputManagement keymanager = new InputOutputManagement(this);
         // Registering BroadcastReceiver MyReceiver
-        IntentFilter intentFilter = new IntentFilter();
-        intentFilter.addAction("sendingActivities");
+//        IntentFilter intentFilter = new IntentFilter();
+//        intentFilter.addAction("sendingActivities");
+//        registerReceiver(new MyReceiver(),intentFilter);
+
 
 
         methodChannelStartService = new MethodChannel(flutterView, "es.uclm.esi.mami.macAddress");
