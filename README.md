@@ -5,7 +5,7 @@
 </h1>
 
 [![DOI](https://img.shields.io/badge/DOI-WIP-blueviolet)]()
-![Last release](https://img.shields.io/badge/Last%20release-MiBandFlower-1a295d)
+![Last release](https://img.shields.io/badge/Last%20release-PeintureDeLaRenaissance-1a295d)
 [![Package status](https://img.shields.io/badge/Package%20status-up%20to%20date!-blue)](https://pypi.org/project/pandas/)
 ![Last commit](https://img.shields.io/github/last-commit/AlfonsoBarragan/Techdeck)
 ![Coverage](https://img.shields.io/badge/Coverage-0%25-red)
